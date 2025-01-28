@@ -1,0 +1,6 @@
+.p{
+    color: red;
+}
+.div::after{
+    background-color: aliceblue;
+}
